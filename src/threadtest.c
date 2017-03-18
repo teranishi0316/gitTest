@@ -1,8 +1,8 @@
 /*
  ============================================================================
  Name        : threadtest.c
- Author      :
- Version     :
+ Author      : D.Teranishi
+ Version     : 1.00
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
  ============================================================================
