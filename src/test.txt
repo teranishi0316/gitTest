@@ -1,0 +1,4 @@
+git command test
+reinstall test 
+あっぱれ
+
