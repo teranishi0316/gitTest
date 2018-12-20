@@ -1,4 +1,4 @@
 git command test
 reinstall test 
 あっぱれ
-
+寺西追加
